@@ -10,4 +10,11 @@ $> git clone https://github.com/wiseStann/HyperionTextEditor.git
 $> cd HyperionTextEditor
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+```
+$> chmod 777 setup.sh
+$> chmod 777 meson_compile.sh
+```
+
+```
+$> ./bin/Hyperion
+```
