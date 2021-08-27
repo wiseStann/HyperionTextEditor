@@ -1,0 +1,23 @@
+window {
+    border-bottom: #7b5fc2 solid 2.3em;
+    border-radius: 0px;
+}
+
+#welcome_label {
+    background-color: #eee7ff;
+    color: #4400ff;
+    font-size: 15px;
+    /* text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 60px #8336c2, 0 0 40px #8336c2; */
+}
+
+#win_stack {
+    background-color: #1e032e;
+}
+
+menubar {
+    background-color: #dbdbdb;
+}
+
+stackswitcher {
+    background-color: #ffffff;
+}
